@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reminders</string>
+    <string name="add_list">Add List</string>
+    <string name="new_reminder">⊕ New Reminder</string>
+    <string name="my_lists">My Lists</string>
+    <string name="to_do_lists">To Do Lists</string>
+    <string name="my_reminder">My Reminders</string>
+    <string name="greatertodesign">   ></string>
+    <string name="edit">Edit</string>
+</resources>
